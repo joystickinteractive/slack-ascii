@@ -18,7 +18,8 @@ var asciiEmoticons = {
     "shades": "(⌐■_■)",
     "shrug": "¯\\_(ツ)_/¯",
     "unflip": "┬──┬◡ﾉ(° -°ﾉ)",
-    "y u no": "ლ(ಠ益ಠლ)"
+    "y u no": "ლ(ಠ益ಠლ)",
+    "dance": "ᕕ( ᐛ )ᕗ"
 };
 
 var helpResponseMessage = '';
